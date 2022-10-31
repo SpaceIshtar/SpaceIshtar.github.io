@@ -17,5 +17,5 @@ My research interests are **systems and algorithms for large-scale data**. Durin
 * Entity Matching
 * Automatic Database Knob Tuning
 
-For more detailed information, my [CV](https://github.com/SpaceIshtar/spaceishtar.github.io/tree/main/files/CV.pdf) is attached for your reference.
+For more detailed information, my [CV](https://github.com/SpaceIshtar/spaceishtar.github.io/files/CV.pdf) is attached for your reference.
 
