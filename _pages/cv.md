@@ -70,8 +70,8 @@ Research Experience
   * Conducted experiments to verify the superiority of our solution, which boosts the recall of competition baseline on range search by more than 70%.
   * Applied our solution to Milvus, a cloud-native vector database system, which has been adopted by many enterprises including Tencent, ebay and NVIDIA.
   * Published a paper that describes our solution on VLDB 2022 conference about the system.
-Teaching Experience
-======
+
+# Teaching Experience
 
 **Southern University of Science and Technology**
 
