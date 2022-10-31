@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Technology, Southern University of Science and Technology, _expected_ 2023
-* **GPA**: 3.94/4.00, **Rank**: 3/157
+* **GPA**: 3.89/4.00, **Rank**: 3/157
 * Key Courses: Probability and Statistics, Data Structure and Algorithm, Database Principles, Computer Architecture, Information Theory, Data Mining, Machine Learning
 
 # Research Interest
