@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jiarui Luo, an undergraduate student in Southern University of Science and Technology (SUSTech), China. I am expected to receive my Bachelor degree in Computer Science and Technology in June 2023 and I am currently applying for a PhD position to further develop my skills as a CS researcher.
+I am Jiarui Luo, an undergraduate student in Southern University of Science and Technology (SUSTech), China. I am expected to receive my Bachelor degree in Computer Science and Technology (SUSTech) in June 2023 and I am currently actively applying for a PhD program in Computer Science.
 
-My research interests are **systems and algorithms for large-scale data**. During my undergraduate study, I have had some precious research experience in the following topics:
+My research interests are **systems and algorithms for large-scale data**. In my undergraduate years, I joined DBGroup@SUSTech in Feb. 2021 as a research assistant.  My research topics included but not limited to:
 
 * Approximate Nearest Neighbors Search
 * Graph Summarization
